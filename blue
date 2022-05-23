@@ -5,4 +5,4 @@ Reverse the number
 Compare the temporary number with reversed number
 If both numbers are same, print "palindrome number"
 Else print "not palindrome number"
-end 
+end of the point
